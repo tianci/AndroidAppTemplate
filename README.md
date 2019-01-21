@@ -1,0 +1,2 @@
+# AndroidAppTemplate
+利用开源资源提供一个快速开始的app工程的模板，节省项目启动的时间
